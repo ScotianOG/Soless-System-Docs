@@ -114,16 +114,6 @@ Step-by-Step Setup:
 - Early access to your work
 - Special announcements
 
-#### Pricing Guide:
-
-```
-Content Type        Recommended Price
-Basic Post         1-5 SOLCT
-Tutorials          5-15 SOLCT
-Exclusive Content  15-50 SOLCT
-Special Access     50+ SOLCT
-```
-
 ### Strategy 3: Content NFTs (Advanced Earnings)
 
 #### Why Make Content NFTs?
@@ -243,10 +233,10 @@ Example Split Structure:
 #### Membership Levels:
 
 ```
-Basic: Hold 10 SOLCT
-Premium: Hold 50 SOLCT
-VIP: Hold 100 SOLCT
-Elite: Hold 500 SOLCT
+Basic: Hold x SOLCT
+Premium: Hold x SOLCT
+VIP: Hold X SOLCT
+Elite: Hold X SOLCT
 ```
 
 ## Managing Your Money
@@ -266,26 +256,6 @@ Elite: Hold 500 SOLCT
 - Earnings Calculator
 - Performance Metrics
 - Revenue Projections
-
-### 2. Tax Considerations
-
-#### Basic Tax Tips:
-
-- Keep detailed records
-- Track all transactions
-- Save for taxes quarterly
-- Consider professional help
-
-#### What to Track:
-
-```
-- Direct earnings
-- Tips received
-- NFT sales
-- Royalty income
-- Platform fees
-- Collaboration splits
-```
 
 ## Resources and Support
 
