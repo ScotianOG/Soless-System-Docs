@@ -1,0 +1,21 @@
+<svg viewBox="0 0 800 400">
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#4299E1"/>
+    </marker>
+  </defs>
+  
+  <!-- Main Components -->
+  <circle cx="400" cy="200" r="150" fill="#EBF8FF" stroke="#4299E1" stroke-width="2"/>
+  <circle cx="400" cy="200" r="100" fill="#E9D8FD" stroke="#805AD5" stroke-width="2"/>
+  <circle cx="400" cy="200" r="50" fill="#F0FFF4" stroke="#48BB78" stroke-width="2"/>
+  
+  <!-- Labels -->
+  <text x="400" y="80" text-anchor="middle" fill="#2B6CB0" font-size="14">SOLess DEX</text>
+  <text x="400" y="200" text-anchor="middle" fill="#6B46C1" font-size="14">SOLarium</text>
+  <text x="400" y="320" text-anchor="middle" fill="#2F855A" font-size="14">SOLspace</text>
+  
+  <!-- Flow Arrows -->
+  <path d="M 400 150 Q 450 200 400 250" fill="none" stroke="#4299E1" stroke-width="2" marker-end="url(#arrowhead)"/>
+  <path d="M 400 250 Q 350 200 400 150" fill="none" stroke="#4299E1" stroke-width="2" marker-end="url(#arrowhead)"/>
+</svg>
